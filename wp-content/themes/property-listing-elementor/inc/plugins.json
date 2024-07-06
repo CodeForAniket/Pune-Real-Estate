@@ -1,0 +1,16 @@
+[  {
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Kirki Customizer Framework",
+  "slug": "kirki",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Easy Property Listings",
+  "slug": "easy-property-listings",
+  "required": false,
+  "force_activation": false
+}]
